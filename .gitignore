@@ -1,0 +1,17 @@
+# Docker and temporary files
+.tmp/
+docker.xauth
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
